@@ -8,6 +8,16 @@ const prevBtn = document.getElementById("prev");
 
 let current = 0;
 
+// GROUP PLAYLIST BY CATEGORY
+function groupByCategory() {
+  const map = {};
+  playlist.forEach((item, index) => {
+    if (!map[item.category]) map[item.category] = [];
+    map[item.category].push({ ...item, index });
+  });
+  return map;
+}
+
 // Load track
 function loadTrack(i) {
   audio.src = playlist[i].file;
@@ -33,25 +43,40 @@ function prevTrack() {
   audio.play();
 }
 
-// Render playlist UI
+// Render playlist UI with categories
 function renderList() {
   list.innerHTML = "";
-  playlist.forEach((track, i) => {
-    const li = document.createElement("li");
-    li.textContent = track.title;
-    li.onclick = () => {
-      current = i;
-      loadTrack(current);
-      audio.play();
-    };
-    list.appendChild(li);
+  const groups = groupByCategory();
+
+  Object.keys(groups).forEach(category => {
+    // Category header
+    const catLi = document.createElement("li");
+    catLi.textContent = category;
+    catLi.className = "category-header";
+    list.appendChild(catLi);
+
+    // Songs under category
+    groups[category].forEach(song => {
+      const li = document.createElement("li");
+      li.textContent = song.title;
+      li.className = "song-item";
+      li.dataset.index = song.index;
+
+      li.onclick = () => {
+        current = song.index;
+        loadTrack(current);
+        audio.play();
+      };
+
+      list.appendChild(li);
+    });
   });
 }
 
 // Highlight current track
 function highlight() {
-  [...list.children].forEach((li, i) => {
-    li.classList.toggle("active", i === current);
+  document.querySelectorAll(".song-item").forEach(li => {
+    li.classList.toggle("active", Number(li.dataset.index) === current);
   });
 }
 

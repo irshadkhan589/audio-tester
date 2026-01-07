@@ -56,3 +56,23 @@ body {
   opacity: 1;
   background: #1f1f1f;
 }
+
+.category-header {
+  font-size: xx-large;
+  font-weight: bold;
+  opacity: 1 !important;
+  padding: 10px 10px 6px;
+  margin-top: 10px;
+  border-bottom: 1px solid #333;
+  color: #aaa;
+  cursor: default;
+}
+
+.song-item {
+  opacity: 0.5;
+}
+
+.song-item.active {
+  background: #1f1f1f;
+  opacity: 1;
+}
