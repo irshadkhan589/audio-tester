@@ -5,6 +5,8 @@ const list = document.getElementById("list");
 const playBtn = document.getElementById("play");
 const nextBtn = document.getElementById("next");
 const prevBtn = document.getElementById("prev");
+const time = document.getElementById("time");
+
 
 let current = 0;
 
@@ -18,12 +20,23 @@ function groupByCategory() {
   return map;
 }
 
+
+function formatTime(sec) {
+  if (isNaN(sec)) return "00:00";
+  const m = Math.floor(sec / 60);
+  const s = Math.floor(sec % 60);
+  return `${m.toString().padStart(2, "0")}:${s.toString().padStart(2, "0")}`;
+}
+
+
 // Load track
 function loadTrack(i) {
   audio.src = playlist[i].file;
   title.textContent = playlist[i].title;
+  time.textContent = "00:00 / 00:00";
   highlight();
 }
+
 
 // Play / pause
 function togglePlay() {
@@ -95,6 +108,11 @@ document.addEventListener("keydown", e => {
 
 // Auto-play next
 audio.addEventListener("ended", nextTrack);
+
+audio.addEventListener("timeupdate", () => {
+  time.textContent = `${formatTime(audio.currentTime)} / ${formatTime(audio.duration)}`;
+});
+
 
 // Init
 renderList();

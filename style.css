@@ -76,3 +76,9 @@ body {
   background: #1f1f1f;
   opacity: 1;
 }
+
+#time {
+  font-size: 12px;
+  opacity: 0.6;
+  margin-bottom: 10px;
+}
