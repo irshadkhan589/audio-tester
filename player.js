@@ -33,7 +33,15 @@ function formatTime(sec) {
 function loadTrack(i) {
   audio.src = playlist[i].file;
   title.textContent = playlist[i].title;
-  time.textContent = "00:00 / 00:00";
+  // Reset all timers in the list
+  document.querySelectorAll(".song-time").forEach(t => {
+    t.textContent = "♬";
+  });
+
+  // Reset the active song time
+  const span = document.getElementById(`time-${i}`);
+  if (span) span.textContent = "00:00 / 00:00";
+
   highlight();
 }
 
@@ -71,7 +79,11 @@ function renderList() {
     // Songs under category
     groups[category].forEach(song => {
       const li = document.createElement("li");
-      li.textContent = song.title;
+      li.innerHTML = `
+  <span class="song-title">${song.title}</span>
+  <span class="song-time" id="time-${song.index}">--:-- / --:--</span>
+`;
+
       li.className = "song-item";
       li.dataset.index = song.index;
 
@@ -110,7 +122,10 @@ document.addEventListener("keydown", e => {
 audio.addEventListener("ended", nextTrack);
 
 audio.addEventListener("timeupdate", () => {
-  time.textContent = `${formatTime(audio.currentTime)} / ${formatTime(audio.duration)}`;
+  const span = document.getElementById(`time-${current}`);
+  if (span) {
+    span.textContent = `${formatTime(audio.currentTime)} / ${formatTime(audio.duration)}`;
+  }
 });
 
 
