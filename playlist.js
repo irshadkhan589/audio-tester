@@ -6,4 +6,7 @@ const playlist = [
   { title: "Sahara Hensonn", file: "music/saharahensonn.mp3",category: "Energy/Phonk" },
   { title: "Crystals Isolate", file: "music/crystalsIsolate.mp3",category: "Energy/Phonk" },
   { title: "JDM - Bhaskar", file: "music/JDMBhaskar.mp3",category: "Rap" },
+  { title: "Lachak - Bhaskar", file: "music/LachakBhaskar.mp3",category: "Rap" },
+  { title: "Dainik Bhaskar - Bhaskar", file: "music/DainikBhaskar.mp3",category: "Rap" },
+  { title: "Aarambh Prachand X Polezehnie", file: "music/AarambhPrachandPolo.mp3",category: "Energy/Phonk" },
 ];
