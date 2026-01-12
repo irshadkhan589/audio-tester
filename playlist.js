@@ -8,6 +8,7 @@ const playlist = [
     { title: "Jhol | Coke Studio Pakistan | Season 15", file: "music/JholMannu.mp3",category: "IRF" },
   { title: "Aaryan shah -Isolation", file: "music/IsolationAaryan.mp3",category: "IRF" },
   { title: "G-Eazy & Halsey - Him & I", file: "music/Him&I.mp3",category: "IRF" },
+  { title: "NOW OR NEVER Song by CXSPER, Tkandz", file: "music/NowOrNever.mp3",category: "IRF" },
   { title: "JDM - Bhaskar", file: "music/JDMBhaskar.mp3",category: "Rap" },
   { title: "Lachak - Bhaskar", file: "music/LachakBhaskar.mp3",category: "Rap" },
   { title: "Dainik Bhaskar - Bhaskar", file: "music/DainikBhaskar.mp3",category: "Rap" },
