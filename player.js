@@ -67,36 +67,14 @@ function prevTrack() {
 // Render playlist UI with categories
 function renderList() {
   list.innerHTML = "";
-  const groups = groupByCategory();
 
-  Object.keys(groups).forEach(category => {
-    // Category header
-    const catLi = document.createElement("li");
-    catLi.textContent = category;
-    catLi.className = "category-header";
-    list.appendChild(catLi);
-
-    // Songs under category
-    groups[category].forEach(song => {
-      const li = document.createElement("li");
-      li.innerHTML = `
-  <span class="song-title">${song.title}</span>
-  <span class="song-time" id="time-${song.index}">--:-- / --:--</span>
-`;
-
-      li.className = "song-item";
-      li.dataset.index = song.index;
-
-      li.onclick = () => {
-        current = song.index;
-        loadTrack(current);
-        audio.play();
-      };
-
-      list.appendChild(li);
-    });
-  });
+  renderCategory("Energy / Phonk", energyPhonk, 0);
+  renderCategory("IRF", irfSongs, energyPhonk.length);
+  renderCategory("Rap", rapSongs, energyPhonk.length + irfSongs.length);
 }
+
+
+
 
 // Highlight current track
 function highlight() {
@@ -127,6 +105,43 @@ audio.addEventListener("timeupdate", () => {
     span.textContent = `${formatTime(audio.currentTime)} / ${formatTime(audio.duration)}`;
   }
 });
+
+function renderCategory(titleText, songsArray, offset) {
+  const card = document.createElement("div");
+  card.className = "category-card";
+
+  const title = document.createElement("div");
+  title.className = "category-title";
+  title.textContent = titleText;
+  card.appendChild(title);
+
+  const ul = document.createElement("ul");
+  ul.className = "category-songs";
+
+  songsArray.forEach((song, i) => {
+    const index = offset + i;
+
+    const li = document.createElement("li");
+    li.className = "song-item";
+    li.dataset.index = index;
+
+    li.innerHTML = `
+      <span class="song-title">${song.title}</span>
+      <span class="song-time" id="time-${index}">--:-- / --:--</span>
+    `;
+
+    li.onclick = () => {
+      current = index;
+      loadTrack(current);
+      audio.play();
+    };
+
+    ul.appendChild(li);
+  });
+
+  card.appendChild(ul);
+  list.appendChild(card);
+}
 
 
 // Init
