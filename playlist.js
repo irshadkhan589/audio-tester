@@ -28,6 +28,9 @@ const rapSongs = [
   { title: "JDM - Bhaskar", file: "music/JDMBhaskar.mp3" },
   { title: "Lachak - Bhaskar", file: "music/LachakBhaskar.mp3" },
   { title: "Dainik Bhaskar - Bhaskar", file: "music/DainikBhaskar.mp3" },
+  { title: "Champions - Seedhe Maut", file: "music/ChampionsSeedhe.mp3" },
+  { title: "Introduction - Farish Shafi", file: "music/IntroductionFaris.mp3" },
+  { title: "Raat Ki Rani - Seedhe Maut", file: "music/RaatKiRaniSeedhe.mp3" },
 ];
 
 // MASTER PLAYLIST (flattened for player controls)
