@@ -11,6 +11,8 @@ const energyPhonk = [
   { title: "Sia - Unstoppable", file: "music/Sia-Unstoppable.mp3" },
   { title: "Ravan Ravan Hoon Main Rock D", file: "music/Ravan-RockD.mp3" },
   { title: "Swaggin' at the Partment - Ghostface Playa", file: "music/Swagin-Playa.mp3" },
+  { title: "INVINCIBLE - Sidhu Moose Wala Stefflon Don", file: "music/Invincible-Sidhu.mp3" },
+  { title: "Yaar Bathere - Honey Singh x Alfaaz", file: "music/YaarBathere-Honey.mp3" },
 ];
 
 // IRF
