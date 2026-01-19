@@ -13,6 +13,10 @@ const energyPhonk = [
   { title: "Swaggin' at the Partment - Ghostface Playa", file: "music/Swagin-Playa.mp3" },
   { title: "INVINCIBLE - Sidhu Moose Wala Stefflon Don", file: "music/Invincible-Sidhu.mp3" },
   { title: "Yaar Bathere - Honey Singh x Alfaaz", file: "music/YaarBathere-Honey.mp3" },
+  { title: "2Pac - Hit 'Em Up (feat. Outlawz)", file: "music/2PacHitEm.mp3" },
+  { title: "Kaleshi Chori", file: "music/KaleshiChori.mp3" },
+  { title: "Same Beef Song BOHEMIA Ft. Sidhu Moose Wala", file: "music/SameBeef.mp3" },
+  { title: "Wels, PLXYAE - NXSTY BLOOD 2 (2023)", file: "music/NxstyBlood2.mp3" },
 ];
 
 // IRF
