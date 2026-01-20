@@ -17,6 +17,8 @@ const energyPhonk = [
   { title: "Kaleshi Chori", file: "music/KaleshiChori.mp3" },
   { title: "Same Beef Song BOHEMIA Ft. Sidhu Moose Wala", file: "music/SameBeef.mp3" },
   { title: "Wels, PLXYAE - NXSTY BLOOD 2 (2023)", file: "music/NxstyBlood2.mp3" },
+  { title: "BENZ - Young Stunners", file: "music/BenzYoung.mp3" },
+  { title: "MONTAGEM INVASÃO (Slowed) - ARXMANE", file: "music/MontagemInvasaoSlowed.mp3" },
 ];
 
 // IRF
