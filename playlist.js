@@ -19,6 +19,10 @@ const energyPhonk = [
   { title: "Wels, PLXYAE - NXSTY BLOOD 2 (2023)", file: "music/NxstyBlood2.mp3" },
   { title: "BENZ - Young Stunners", file: "music/BenzYoung.mp3" },
   { title: "MONTAGEM INVASÃO (Slowed) - ARXMANE", file: "music/MontagemInvasaoSlowed.mp3" },
+  { title: "AUTOMOTIVO DA TURBULENCIA - Ultra Slowed", file: "music/AutomativoUSlowed.mp3" },
+  { title: "Jatt Mehkma - Honey Singh", file: "music/JattMehkma.mp3" },
+  { title: "Khamzat Chimaev Theme Song - Vekisha", file: "music/KhamzatChimaev.mp3" },
+  { title: "VEGETA PHONK - gqtis", file: "music/VegetaPhonk.mp3" },
 ];
 
 // IRF
