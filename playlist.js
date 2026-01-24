@@ -23,6 +23,10 @@ const energyPhonk = [
   { title: "Jatt Mehkma - Honey Singh", file: "music/JattMehkma.mp3" },
   { title: "Khamzat Chimaev Theme Song - Vekisha", file: "music/KhamzatChimaev.mp3" },
   { title: "VEGETA PHONK - gqtis", file: "music/VegetaPhonk.mp3" },
+  { title: "Tevvez - Glimmer of Hope __ Domain of the Gods", file: "music/TevvezDomain.mp3" },
+  { title: "fragment (slowed) - slxughter", file: "music/fragmentSlowed.mp3" },
+  { title: "POOR - gqtis", file: "music/PoorGqtis.mp3" },
+  { title: "SHOORVEER 3 - Rapperiya Baalam", file: "music/ShoorveerIII.mp3" },
 ];
 
 // IRF
@@ -33,6 +37,11 @@ const irfSongs = [
   { title: "NOW OR NEVER - CXSPER", file: "music/NowOrNever.mp3" },
   { title: "Tick Tick Boom - Sage", file: "music/TickTickBoom.mp3" },
   { title: "Too Easy - Connor Price", file: "music/TooEasy.mp3" },
+  { title: "Don't Stay - Linkin Park", file: "music/DontStayLinkin.mp3" },
+  { title: "In The End - Linkin Park", file: "music/InTheEndLinkin.mp3" },
+  { title: "New Divide - Linkin Park", file: "music/NewDivideLinkin.mp3" },
+  { title: "Numb _ Encore - Linkin Park _ JAY-Z", file: "music/NumbEncoreLinkin.mp3" },
+  { title: "What I've Done - Linkin Park", file: "music/WhatILinkin.mp3" },
 ];
 
 // RAP
