@@ -42,6 +42,11 @@ const irfSongs = [
   { title: "New Divide - Linkin Park", file: "music/NewDivideLinkin.mp3" },
   { title: "Numb _ Encore - Linkin Park _ JAY-Z", file: "music/NumbEncoreLinkin.mp3" },
   { title: "What I've Done - Linkin Park", file: "music/WhatILinkin.mp3" },
+  { title: "Dopamine - Youth (Official Audio)", file: "music/DopamineYouth.mp3" },
+  { title: "John Wick Reckoning", file: "music/JohnWickReckoning.mp3" },
+  { title: "MGK - Invincible (Explicit) ft. Ester Dean", file: "music/MGKInvincible.mp3" },
+  { title: "Panjabi MC - Jogi (Official Video)", file: "music/PanjabiMC.mp3" },
+  { title: "Shoot Da Order Sukha Kahlon", file: "music/ShootDaSukha.mp3" },
 ];
 
 // RAP
