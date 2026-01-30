@@ -57,11 +57,18 @@ const rapSongs = [
   { title: "Champions - Seedhe Maut", file: "music/ChampionsSeedhe.mp3" },
   { title: "Introduction - Farish Shafi", file: "music/IntroductionFaris.mp3" },
   { title: "Raat Ki Rani - Seedhe Maut", file: "music/RaatKiRaniSeedhe.mp3" },
+  { title: "Dalli - Bhaskar", file: "music/Dalli.mp3" },
 ];
+
+//Calm
+const calmSongs = [
+  {title:"Who Knows - Yo Yo Honey Singh % SODEE", file:"music/WhoKnows.mp3"},
+]
 
 // MASTER PLAYLIST (flattened for player controls)
 const playlist = [
   ...energyPhonk,
   ...irfSongs,
-  ...rapSongs
+  ...rapSongs,
+  ...calmSongs,
 ];

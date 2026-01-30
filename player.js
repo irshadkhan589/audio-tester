@@ -71,6 +71,11 @@ function renderList() {
   renderCategory("Energy / Phonk", energyPhonk, 0);
   renderCategory("IRF/SHNT", irfSongs, energyPhonk.length);
   renderCategory("Rap", rapSongs, energyPhonk.length + irfSongs.length);
+  renderCategory(
+    "Calm 🌙",
+    calmSongs,
+    energyPhonk.length + irfSongs.length + rapSongs.length
+  );
 }
 
 
