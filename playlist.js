@@ -73,6 +73,11 @@ const calmSongs = [
   {title:"Insane - AP Dhillon", file:"music/Insane.mp3"},
   {title:"Jal Pari - Atif Aslam", file:"music/JalPari.mp3"},
   {title:"Pehli Nazar Mein - Atif Aslam", file:"music/PehliNazarMein.mp3"},
+  {title:"BANJAREY - Yo Yo Honey Singh", file:"music/BANJAREY.mp3"},
+  {title:"Calm Down - Rema x Selena Gomez", file:"music/CalmDown.mp3"},
+  {title:"Ghana Kasoota", file:"music/GhanaKasoota.mp3"},
+  {title:"Mann Mera - Gajendra Verma", file:"music/MannMera.mp3"},
+  {title:"Saiyaan Ji - Yo Yo Honey Singh", file:"music/SaiyaanJi.mp3"},
 ]
 
 // MASTER PLAYLIST (flattened for player controls)
