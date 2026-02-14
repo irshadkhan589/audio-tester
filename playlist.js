@@ -68,6 +68,11 @@ const calmSongs = [
   {title:"Kalaastar - Yo Yo Honey Singh", file:"music/Kalaastar.mp3"},
   {title:"Laungda Lashkara", file:"music/LaungdaLashkara.mp3"},
   {title:"Saibo", file:"music/Saibo.mp3"},
+  {title:"Ajnabi - Atif Aslam", file:"music/AjnabiAtif.mp3"},
+  {title:"BLUE EYES - Yo Yo Honey Singh", file:"music/BLUE_EYES.mp3"},
+  {title:"Insane - AP Dhillon", file:"music/Insane.mp3"},
+  {title:"Jal Pari - Atif Aslam", file:"music/JalPari.mp3"},
+  {title:"Pehli Nazar Mein - Atif Aslam", file:"music/PehliNazarMein.mp3"},
 ]
 
 // MASTER PLAYLIST (flattened for player controls)
