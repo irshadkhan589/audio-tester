@@ -63,6 +63,11 @@ const rapSongs = [
 //Calm
 const calmSongs = [
   {title:"Who Knows - Yo Yo Honey Singh % SODEE", file:"music/WhoKnows.mp3"},
+  {title:"AMBARSARIYA", file:"music/AMBARSARIYA.mp3"},
+  {title:"Care Ni Karda - Yo Yo Honey Singh", file:"music/CareNiKarda.mp3"},
+  {title:"Kalaastar - Yo Yo Honey Singh", file:"music/Kalaastar.mp3"},
+  {title:"Laungda Lashkara", file:"music/LaungdaLashkara.mp3"},
+  {title:"Saibo", file:"music/Saibo.mp3"},
 ]
 
 // MASTER PLAYLIST (flattened for player controls)
