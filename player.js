@@ -72,9 +72,14 @@ function renderList() {
   renderCategory("IRF/SHNT", irfSongs, energyPhonk.length);
   renderCategory("Rap", rapSongs, energyPhonk.length + irfSongs.length);
   renderCategory(
-    "Calm 🌙",
+    "Calm 🍃",
     calmSongs,
     energyPhonk.length + irfSongs.length + rapSongs.length
+  );
+  renderCategory(
+    "Ramzan 🌙",
+    ramzanSongs,
+    energyPhonk.length + irfSongs.length + rapSongs.length + calmSongs.length
   );
 }
 
