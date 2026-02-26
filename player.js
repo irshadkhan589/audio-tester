@@ -68,9 +68,9 @@ function prevTrack() {
 function renderList() {
   list.innerHTML = "";
 
-  renderCategory("Energy / Phonk", energyPhonk, 0);
-  renderCategory("IRF/SHNT", irfSongs, energyPhonk.length);
-  renderCategory("Rap", rapSongs, energyPhonk.length + irfSongs.length);
+  renderCategory("Energy / Phonk 🔥", energyPhonk, 0);
+  renderCategory("Requests", irfSongs, energyPhonk.length);
+  //renderCategory("Rap", rapSongs, energyPhonk.length + irfSongs.length);
   renderCategory(
     "Calm 🍃",
     calmSongs,
@@ -81,6 +81,12 @@ function renderList() {
     ramzanSongs,
     energyPhonk.length + irfSongs.length + rapSongs.length + calmSongs.length
   );
+  renderCategory(
+    "Sad 🫶",
+    sadSongs,
+    energyPhonk.length + irfSongs.length + rapSongs.length + calmSongs.length + ramzanSongs.length
+  );
+  
 }
 
 

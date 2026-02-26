@@ -85,11 +85,16 @@ const ramzanSongs = [{title:"Maula Ya Salli - Urdu", file:"music/MaulaYaSalli.mp
   {title:"Muhammad Nabina - Nadah Si", file:"music/MuhammadNabina.mp3"},
 ]
 
+const sadSongs = [{title:"Tera Mera Rishta", file:"music/TeraMeraRishta.mp3"},
+  {title:"Toh Phir Aao", file:"music/TohPhirAao.mp3"}
+]
+
 // MASTER PLAYLIST (flattened for player controls)
 const playlist = [
   ...energyPhonk,
   ...irfSongs,
   ...rapSongs,
   ...calmSongs,
-  ...ramzanSongs
+  ...ramzanSongs,
+  ...sadSongs
 ];
