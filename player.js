@@ -68,24 +68,48 @@ function prevTrack() {
 function renderList() {
   list.innerHTML = "";
 
-  renderCategory("Energy / Phonk 🔥", energyPhonk, 0);
-  renderCategory("Requests", irfSongs, energyPhonk.length);
-  //renderCategory("Rap", rapSongs, energyPhonk.length + irfSongs.length);
   renderCategory(
-    "Calm 🍃",
-    calmSongs,
-    energyPhonk.length + irfSongs.length + rapSongs.length
-  );
-  renderCategory(
-    "Ramzan 🌙",
-    ramzanSongs,
-    energyPhonk.length + irfSongs.length + rapSongs.length + calmSongs.length
-  );
-  renderCategory(
-    "Sad 🫶",
-    sadSongs,
-    energyPhonk.length + irfSongs.length + rapSongs.length + calmSongs.length + ramzanSongs.length
-  );
+  `Energy / Phonk 🔥 (${energyPhonk.length})`,
+  energyPhonk,
+  0
+);
+
+renderCategory(
+  `Requests (${irfSongs.length})`,
+  irfSongs,
+  energyPhonk.length
+);
+
+// renderCategory(
+//   `Rap (${rapSongs.length})`,
+//   rapSongs,
+//   energyPhonk.length + irfSongs.length
+// );
+
+renderCategory(
+  `Calm 🍃 (${calmSongs.length})`,
+  calmSongs,
+  energyPhonk.length + irfSongs.length + rapSongs.length
+);
+
+renderCategory(
+  `Ramzan 🌙 (${ramzanSongs.length})`,
+  ramzanSongs,
+  energyPhonk.length +
+    irfSongs.length +
+    rapSongs.length +
+    calmSongs.length
+);
+
+renderCategory(
+  `Sad 🫶 (${sadSongs.length})`,
+  sadSongs,
+  energyPhonk.length +
+    irfSongs.length +
+    rapSongs.length +
+    calmSongs.length +
+    ramzanSongs.length
+);
   
 }
 
