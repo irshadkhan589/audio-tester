@@ -86,7 +86,20 @@ const ramzanSongs = [{title:"Maula Ya Salli - Urdu", file:"music/MaulaYaSalli.mp
 ]
 
 const sadSongs = [{title:"Tera Mera Rishta", file:"music/TeraMeraRishta.mp3"},
-  {title:"Toh Phir Aao", file:"music/TohPhirAao.mp3"}
+  {title:"Toh Phir Aao", file:"music/TohPhirAao.mp3"},
+  {title:"Aye Khuda - Mithoon", file:"music/AyeKhudaMithoon.mp3"},
+  {title:"Beete Lamhein - KK", file:"music/BeeteLamheinKK.mp3"},
+  {title:"Dil Ke Arman - Salma Agha", file:"music/DilKeArman.mp3"},
+  {title:"Doorie - Atif Aslam", file:"music/Doorie.mp3"},
+  {title:"drunk text me - Lexi Jayde", file:"music/drunktextmeLexiJayde.mp3"},
+  {title:"MAINE MERE JANA (Emptiness Female Version)", file:"music/MAINEMEREJANA.mp3"},
+  {title:"Maine Royaan - Tanveer Evan", file:"music/MaineRoyaanTanveerEvan.mp3"},
+  {title:"Maula - Ali Azmat", file:"music/MaulaAliAzmat.mp3"},
+  {title:"Pani Da Rang - Ayushmann", file:"music/PaniDaRangAyushmann.mp3"},
+  {title:"Phir Mohabbat", file:"music/PhirMohabbat.mp3"},
+  {title:"Tu hai kahan Female - Shuddhi.mp3", file:"music/TuhaikahanFemaleShuddhi.mp3"},
+  {title:"Tu Hai Kahan - AUR", file:"music/TuHaiKahanAUR.mp3"},
+  {title:"Tune Jo Na Kaha", file:"music/TuneJoNaKaha.mp3"},
 ]
 
 // MASTER PLAYLIST (flattened for player controls)
