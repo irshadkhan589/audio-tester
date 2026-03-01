@@ -110,6 +110,17 @@ renderCategory(
     calmSongs.length +
     ramzanSongs.length
 );
+
+renderCategory(
+  `Breakup 💔 (${healSongs.length})`,
+  healSongs,
+  energyPhonk.length +
+    irfSongs.length +
+    rapSongs.length +
+    calmSongs.length +
+    ramzanSongs.length +
+    sadSongs.length
+);
   
 }
 

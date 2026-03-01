@@ -118,7 +118,17 @@ const sadSongs = [{title:"Tera Mera Rishta", file:"music/TeraMeraRishta.mp3"},
   {title:"mausam x kabira x teri meri mashup - Ab6 music.mp3", file:"music/mausam x kabira x teri meri song editing mashup slowed hindi - Ab6 music.mp3"},
   {title:"TERI YAADON MEIN - KK.mp3", file:"music/TERI YAADON MEIN - KK.mp3"},
   {title:"Yeh Jism - Ali Azmat", file:"music/Yeh Jism - Ali Azmat.mp3"},
-  
+]
+
+const healSongs = [
+  {title:"Ek Raat - VILEN", file:"music/Ek Raat.mp3"},
+  {title:"I'M Done", file:"music/I'M Done.mp3"},
+  {title:"Tera Ghata", file:"music/Tera Ghata.mp3"},
+  {title:"Todh", file:"music/Todh.mp3"},
+  {title:"Tujhko Kya Fikar_", file:"music/Tujhko Kya Fikar_.mp3"},
+  {title:"Victory Anthem", file:"music/Victory Anthem.mp3"},
+  {title:"WORTH NOTHING - PHONK", file:"music/WORTH NOTHING - PHONK.mp3"},
+  {title:"Yaad Na Aaye", file:"music/Yaad Na Aaye.mp3"},
 ]
 
 // MASTER PLAYLIST (flattened for player controls)
@@ -128,5 +138,6 @@ const playlist = [
   ...rapSongs,
   ...calmSongs,
   ...ramzanSongs,
-  ...sadSongs
+  ...sadSongs,
+  ...healSongs
 ];
