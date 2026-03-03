@@ -83,6 +83,18 @@ const calmSongs = [
 //Ramzan Songs
 const ramzanSongs = [{title:"Maula Ya Salli - Urdu", file:"music/MaulaYaSalli.mp3"},
   {title:"Muhammad Nabina - Nadah Si", file:"music/MuhammadNabina.mp3"},
+  {title:"Allah Hu Allah Hu", file:"music/Allah Hu Allah Hu.mp3"},
+  {title:"Mustafa Jaan E Rehmat Pe Lakhon Salam Naat Feat. Atif Aslam", file:"music/Mustafa Jaan E Rehmat Pe Lakhon Salam Naat Feat. Atif Aslam.mp3"},
+  {title:"Coke Studio Season 8 Tajdar-e-Haram Atif Aslam", file:"music/Coke Studio Season 8 Tajdar-e-Haram Atif Aslam.mp3"},
+  {title:"Coke Studio Season 12 Wohi Khuda Hai Atif Aslam", file:"music/Coke Studio Season 12 Wohi Khuda Hai Atif Aslam.mp3"},
+  {title:"Faslon Ko Takalluf Hai", file:"music/Faslon Ko Takalluf Hai.mp3"},
+  {title:"Kalimataan Nasheed - Subhan Allahi wa-bi hamdihi Subhan Allahi-l-Adheem", file:"music/Kalimataan Nasheed - Subhan Allahi wa-bi hamdihi Subhan Allahi-l-Adheem.mp3"},
+  {title:"Maher Zain - Ya Nabi Salam Alayka (Arabic) ماهر زين - يا نبي سلام عليك", file:"music/Maher Zain - Ya Nabi Salam Alayka (Arabic) ماهر زين - يا نبي سلام عليك.mp3"},
+  // {title:"Faslon Ko Takalluf Hai", file:"music/Faslon Ko Takalluf Hai.mp3"},
+  {title:"Mesut Kurtis - Burdah Maula ya Salli مسعود كرتس البردة مولاي صل وسلم", file:"music/Mesut Kurtis - Burdah Maula ya Salli مسعود كرتس البردة مولاي صل وسلم.mp3"},
+  // {title:"Mustafa Jaan E Rehmat Pe Lakhon Salam Naat Feat. Atif Aslam", file:"music/Mustafa Jaan E Rehmat Pe Lakhon Salam Naat Feat. Atif Aslam.mp3"},
+  {title:"Nasheed - Tabalagh bil qaleel (sped up)", file:"music/Nasheed - Tabalagh bil qaleel (sped up).mp3"},
+  {title:"taweel al shawq [ahmed bukhatir] sped up", file:"music/taweel al shawq [ahmed bukhatir] sped up.mp3"},
 ]
 
 const sadSongs = [{title:"Tera Mera Rishta", file:"music/TeraMeraRishta.mp3"},
