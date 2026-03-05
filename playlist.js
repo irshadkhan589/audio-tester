@@ -31,22 +31,22 @@ const energyPhonk = [
 
 // IRF
 const irfSongs = [
-  { title: "Jhol | Coke Studio Pakistan", file: "music/JholMannu.mp3" },
-  { title: "Aaryan shah - Isolation", file: "music/IsolationAaryan.mp3" },
-  { title: "G-Eazy & Halsey - Him & I", file: "music/Him&I.mp3" },
-  { title: "NOW OR NEVER - CXSPER", file: "music/NowOrNever.mp3" },
-  { title: "Tick Tick Boom - Sage", file: "music/TickTickBoom.mp3" },
-  { title: "Too Easy - Connor Price", file: "music/TooEasy.mp3" },
-  { title: "Don't Stay - Linkin Park", file: "music/DontStayLinkin.mp3" },
-  { title: "In The End - Linkin Park", file: "music/InTheEndLinkin.mp3" },
-  { title: "New Divide - Linkin Park", file: "music/NewDivideLinkin.mp3" },
-  { title: "Numb _ Encore - Linkin Park _ JAY-Z", file: "music/NumbEncoreLinkin.mp3" },
-  { title: "What I've Done - Linkin Park", file: "music/WhatILinkin.mp3" },
-  { title: "Dopamine - Youth (Official Audio)", file: "music/DopamineYouth.mp3" },
-  { title: "John Wick Reckoning", file: "music/JohnWickReckoning.mp3" },
-  { title: "MGK - Invincible (Explicit) ft. Ester Dean", file: "music/MGKInvincible.mp3" },
-  { title: "Panjabi MC - Jogi (Official Video)", file: "music/PanjabiMC.mp3" },
-  { title: "Shoot Da Order Sukha Kahlon", file: "music/ShootDaSukha.mp3" },
+  { title: "Irfan - Jhol | Coke Studio Pakistan", file: "music/JholMannu.mp3" },
+  { title: "Irfan - Aaryan shah - Isolation", file: "music/IsolationAaryan.mp3" },
+  { title: "Irfan - G-Eazy & Halsey - Him & I", file: "music/Him&I.mp3" },
+  { title: "Irfan - NOW OR NEVER - CXSPER", file: "music/NowOrNever.mp3" },
+  { title: "Irfan - Tick Tick Boom - Sage", file: "music/TickTickBoom.mp3" },
+  { title: "Irfan - Too Easy - Connor Price", file: "music/TooEasy.mp3" },
+  { title: "Shantanu - Don't Stay - Linkin Park", file: "music/DontStayLinkin.mp3" },
+  { title: "Shantanu - In The End - Linkin Park", file: "music/InTheEndLinkin.mp3" },
+  { title: "Shantanu - New Divide - Linkin Park", file: "music/NewDivideLinkin.mp3" },
+  { title: "Shantanu - Numb _ Encore - Linkin Park _ JAY-Z", file: "music/NumbEncoreLinkin.mp3" },
+  { title: "Shantanu - What I've Done - Linkin Park", file: "music/WhatILinkin.mp3" },
+  { title: "Shantanu - Dopamine - Youth (Official Audio)", file: "music/DopamineYouth.mp3" },
+  { title: "Shantanu - John Wick Reckoning", file: "music/JohnWickReckoning.mp3" },
+  { title: "Shantanu - MGK - Invincible (Explicit) ft. Ester Dean", file: "music/MGKInvincible.mp3" },
+  { title: "Shantanu - Panjabi MC - Jogi (Official Video)", file: "music/PanjabiMC.mp3" },
+  { title: "Shantanu - Shoot Da Order Sukha Kahlon", file: "music/ShootDaSukha.mp3" },
 ];
 
 // RAP
@@ -78,6 +78,16 @@ const calmSongs = [
   {title:"Ghana Kasoota", file:"music/GhanaKasoota.mp3"},
   {title:"Mann Mera - Gajendra Verma", file:"music/MannMera.mp3"},
   {title:"Saiyaan Ji - Yo Yo Honey Singh", file:"music/SaiyaanJi.mp3"},
+  {title:"Black Life", file:"music/Black Life.mp3"},
+  {title:"Chidiya", file:"music/Chidiya.mp3"},
+  {title:"Chori Chori", file:"music/Chori Chori.mp3"},
+  {title:"Desi Kalakaar", file:"music/Desi Kalakaar.mp3"},
+  {title:"Dil Diyan Gallan", file:"music/Dil Diyan Gallan.mp3"},
+  {title:"Goosebumps (Remix)", file:"music/Goosebumps (Remix).mp3"},
+  {title:"Pardes Katenda", file:"music/Pardes Katenda.mp3"},
+  {title:"SAADI GALLI AAJA", file:"music/SAADI GALLI AAJA.mp3"},
+  {title:"Savan", file:"music/Savan.mp3"},
+  {title:"We Rollin", file:"music/We Rollin.mp3"},
 ]
 
 //Ramzan Songs
