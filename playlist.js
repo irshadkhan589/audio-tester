@@ -153,6 +153,28 @@ const healSongs = [
   {title:"Yaad Na Aaye", file:"music/Yaad Na Aaye.mp3"},
 ]
 
+const shantanuSongs = [
+    { title: "Shantanu - Don't Stay - Linkin Park", file: "music/DontStayLinkin.mp3" },
+  { title: "Shantanu - In The End - Linkin Park", file: "music/InTheEndLinkin.mp3" },
+  { title: "Shantanu - New Divide - Linkin Park", file: "music/NewDivideLinkin.mp3" },
+  { title: "Shantanu - Numb _ Encore - Linkin Park _ JAY-Z", file: "music/NumbEncoreLinkin.mp3" },
+  { title: "Shantanu - What I've Done - Linkin Park", file: "music/WhatILinkin.mp3" },
+  { title: "Shantanu - Dopamine - Youth (Official Audio)", file: "music/DopamineYouth.mp3" },
+  { title: "Shantanu - John Wick Reckoning", file: "music/JohnWickReckoning.mp3" },
+  { title: "Shantanu - MGK - Invincible (Explicit) ft. Ester Dean", file: "music/MGKInvincible.mp3" },
+  { title: "Shantanu - Panjabi MC - Jogi (Official Video)", file: "music/PanjabiMC.mp3" },
+  { title: "Shantanu - Shoot Da Order Sukha Kahlon", file: "music/ShootDaSukha.mp3" },
+  { title: "Shantanu - Arey Pagol Hoye Jabo Ami _ Deep Jandu _ Bohemia", file: "music/Arey Pagol Hoye Jabo Ami _ Deep Jandu _ Bohemia.mp3" },
+  { title: "Shantanu - Brothers Osborne - Skeletons (Official Music Video)", file: "music/Brothers Osborne - Skeletons (Official Music Video).mp3" },
+  { title: "Shantanu - Hukum - Hindi (From _Rajini The Jailer_)", file: "music/Hukum - Hindi (From _Rajini The Jailer_).mp3" },
+  { title: "Shantanu - Hukum Reloaded - Hindi (From _Rajini The Jailer 2_)", file: "music/Hukum Reloaded - Hindi (From _Rajini The Jailer 2_).mp3" },
+  { title: "Shantanu - Jaguar _ Muzical Doctorz Sukhe Feat Bohemia _ Latest Punjabi Songs _ Speed Records.mp3", file: "music/Jaguar _ Muzical Doctorz Sukhe Feat Bohemia _ Latest Punjabi Songs _ Speed Records.mp3" },
+  { title: "Shantanu - Linkin Park & Steve Aoki - A Light That Never Comes (Extended)", file: "music/Linkin Park & Steve Aoki - A Light That Never Comes (Extended).mp3" },
+  { title: "Shantanu - Toh Phir Aao (Remix)", file: "music/Toh Phir Aao (Remix).mp3" },
+  
+  
+]
+
 // MASTER PLAYLIST (flattened for player controls)
 const playlist = [
   ...energyPhonk,
@@ -161,5 +183,6 @@ const playlist = [
   ...calmSongs,
   ...ramzanSongs,
   ...sadSongs,
-  ...healSongs
+  ...healSongs,
+  ...shantanuSongs
 ];
