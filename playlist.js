@@ -171,6 +171,16 @@ const shantanuSongs = [
   { title: "Shantanu - Jaguar _ Muzical Doctorz Sukhe Feat Bohemia _ Latest Punjabi Songs _ Speed Records.mp3", file: "music/Jaguar _ Muzical Doctorz Sukhe Feat Bohemia _ Latest Punjabi Songs _ Speed Records.mp3" },
   { title: "Shantanu - Linkin Park & Steve Aoki - A Light That Never Comes (Extended)", file: "music/Linkin Park & Steve Aoki - A Light That Never Comes (Extended).mp3" },
   { title: "Shantanu - Toh Phir Aao (Remix)", file: "music/Toh Phir Aao (Remix).mp3" },
+  { title: "Shantanu - _Raftaarein_ Ra.One _ Shahrukh Khan, Kareena Kapoor", file: "music/_Raftaarein_ Song With Lyrics _ Ra.One _ Shahrukh Khan, Kareena Kapoor.mp3" },
+  { title: "Shantanu - 12 SAAL - BILAL SAEED", file: "music/12 SAAL - BILAL SAEED - OFFICIAL VIDEO HD.mp3" },
+  { title: "Shantanu - Arjan Vailly", file: "music/Arjan Vailly.mp3" },
+  { title: "Shantanu - Banke Tera Jogi - Phir Bhi Dil Hai Hindustani_Shah Rukh Khan, Juhi_Alka Yagnik", file: "music/Banke Tera Jogi Full Video - Phir Bhi Dil Hai Hindustani_Shah Rukh Khan, Juhi_Alka Yagnik.mp3" },
+  { title: "Shantanu - Halamithi Habibo (Hindi) - Video Song _ Beast _ Thalapathy Vijay _ Sun Pictures _ Nelson _ Anirudh", file: "music/Halamithi Habibo (Hindi) - Video Song _ Beast _ Thalapathy Vijay _ Sun Pictures _ Nelson _ Anirudh.mp3" },
+  { title: "Shantanu - Ishq Jalakar - Karvaan (From _Dhurandhar_) · Shashwat Sachdev · Irshad Kamil", file: "music/Ishq Jalakar - Karvaan (From _Dhurandhar_) · Shashwat Sachdev · Irshad Kamil .mp3" },
+  { title: "Shantanu - Kya Mujhe Pyaar Hai (Official Remix)", file: "music/Kya Mujhe Pyaar Hai (Official Remix).mp3" },
+  { title: "Shantanu - Linkin Park - Lost In The Echo (Extended)", file: "music/Linkin Park - Lost In The Echo (Extended).mp3" },
+  { title: "Shantanu - Aao Milo Chalen_ Jab We Met_ Shahid Kapoor,Kareena Kapoor_ Pritam, Shaan, Ustad Sultan Khan", file: "music/Lyrical_ Aao Milo Chalen_ Jab We Met_ Shahid Kapoor,Kareena Kapoor_ Pritam, Shaan, Ustad Sultan Khan.mp3" },
+  { title: "Shantanu - Na Kajre Ki Dhar _ Lyrics _ Suniel Shetty _ Pankaj Udhas & Sadhana Sargam", file: "music/Na Kajre Ki Dhar _ Lyrics _ Suniel Shetty _ Pankaj Udhas & Sadhana Sargam.mp3" },
   
   
 ]
