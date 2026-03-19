@@ -171,7 +171,7 @@ const shantanuSongs = [
   { title: "Shantanu - Jaguar _ Muzical Doctorz Sukhe Feat Bohemia _ Latest Punjabi Songs _ Speed Records.mp3", file: "music/Jaguar _ Muzical Doctorz Sukhe Feat Bohemia _ Latest Punjabi Songs _ Speed Records.mp3" },
   { title: "Shantanu - Linkin Park & Steve Aoki - A Light That Never Comes (Extended)", file: "music/Linkin Park & Steve Aoki - A Light That Never Comes (Extended).mp3" },
   { title: "Shantanu - Toh Phir Aao (Remix)", file: "music/Toh Phir Aao (Remix).mp3" },
-  { title: "Shantanu - _Raftaarein_ Ra.One _ Shahrukh Khan, Kareena Kapoor", file: "music/_Raftaarein_ Song With Lyrics _ Ra.One _ Shahrukh Khan, Kareena Kapoor.mp3" },
+  { title: "Shantanu - _Raftaarein_ Ra.One _ Shahrukh Khan, Kareena Kapoor", file: "music/RaftareinRaOne.mp3" },
   { title: "Shantanu - 12 SAAL - BILAL SAEED", file: "music/12 SAAL - BILAL SAEED - OFFICIAL VIDEO HD.mp3" },
   { title: "Shantanu - Arjan Vailly", file: "music/Arjan Vailly.mp3" },
   { title: "Shantanu - Banke Tera Jogi - Phir Bhi Dil Hai Hindustani_Shah Rukh Khan, Juhi_Alka Yagnik", file: "music/Banke Tera Jogi Full Video - Phir Bhi Dil Hai Hindustani_Shah Rukh Khan, Juhi_Alka Yagnik.mp3" },
@@ -181,6 +181,16 @@ const shantanuSongs = [
   { title: "Shantanu - Linkin Park - Lost In The Echo (Extended)", file: "music/Linkin Park - Lost In The Echo (Extended).mp3" },
   { title: "Shantanu - Aao Milo Chalen_ Jab We Met_ Shahid Kapoor,Kareena Kapoor_ Pritam, Shaan, Ustad Sultan Khan", file: "music/Lyrical_ Aao Milo Chalen_ Jab We Met_ Shahid Kapoor,Kareena Kapoor_ Pritam, Shaan, Ustad Sultan Khan.mp3" },
   { title: "Shantanu - Na Kajre Ki Dhar _ Lyrics _ Suniel Shetty _ Pankaj Udhas & Sadhana Sargam", file: "music/Na Kajre Ki Dhar _ Lyrics _ Suniel Shetty _ Pankaj Udhas & Sadhana Sargam.mp3" },
+  { title: "Shantanu - 8 ASLE - SUKHA _ GURLEZ AKHTAR _ CHANI NATTAN _ PRODGK", file: "music/8 ASLE - SUKHA _ GURLEZ AKHTAR _ CHANI NATTAN _ PRODGK.mp3" },
+  { title: "Shantanu - Bhaag Milkha Bhaag (Rock Version)", file: "music/Bhaag Milkha Bhaag (Rock Version).mp3" },
+  { title: "Shantanu - Brothers Anthem - Brothers _ Akshay Kumar _ Sidharth Malhotra", file: "music/Brothers Anthem Lyric Video - Brothers _ Akshay Kumar _ Sidharth Malhotra.mp3" },
+  { title: "Shantanu - Har Kisi Ko Nahi Milta Lyrics _ Boss _ Arijit Singh", file: "music/Har Kisi Ko Nahi Milta Lyrics _ Boss _ Arijit Singh, Neeti Mohan _ Akshay Kumar, Sonakshi Sinha _.mp3" },
+  { title: "Shantanu - Kangna _ Dr Zeus _ Master Rakesh", file: "music/Kangna _ Dr Zeus _ Master Rakesh _ Audio _ Unda Da Influence _ Punjabi Song.mp3" },
+  { title: "Shantanu - Kevin Rudolf - Let It Rock ft. Lil Wayne", file: "music/Kevin Rudolf - Let It Rock ft. Lil Wayne (Official Music Video).mp3" },
+  { title: "Shantanu - Kurbaan Hua - Audio Song _ Kareena Kapoor, Saif Ali Khan", file: "music/Kurbaan Hua - Audio Song _ Kareena Kapoor, Saif Ali Khan _ Vishal Dadlani _ Salim-Sulaiman.mp3" },
+  { title: "Shantanu -  Chand Sifarish Song with Fanaa", file: "music/Lyrical _ Chand Sifarish Song with Lyrics _ Fanaa _ Aamir Khan _ Kajol _ Jatin-Lalit _ Prasoon Joshi.mp3" },
+  { title: "Shantanu -  Sadda Haq _ Rockstar _ Ranbir Kapoor _ Mohit Chauhan _ A.R. Rahman", file: "music/Lyrical _ Sadda Haq Video Song  _ Rockstar _ Ranbir Kapoor _ Mohit Chauhan _ A.R. Rahman.mp3" },
+  { title: "Shantanu -  Kaise Mujhe _ Ghajini _ Aamir Khan, Asin _ Benny Dayal, Shreya Ghosal _ A.R. Rahman", file: "music/LYRICAL_ Kaise Mujhe _ Ghajini _ Aamir Khan, Asin _ Benny Dayal, Shreya Ghosal _ A.R. Rahman.mp3" },
   
   
 ]
