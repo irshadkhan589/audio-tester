@@ -47,6 +47,11 @@ const irfSongs = [
   { title: "Shn - MGK - Invincible (Explicit) ft. Ester Dean", file: "music/MGKInvincible.mp3" },
   { title: "Shn - Panjabi MC - Jogi (Official Video)", file: "music/PanjabiMC.mp3" },
   { title: "Shn - Shoot Da Order Sukha Kahlon", file: "music/ShootDaSukha.mp3" },
+  { title: "Arc - Ki Banu Duniya Da - Gurdas Maan feat. Diljit Dosanjh & Jatinder Shah", file: "music/Ki Banu Duniya Da - Gurdas Maan feat. Diljit Dosanjh & Jatinder Shah.mp3" },
+  { title: "Arc - Challa.mp3", file: "music/Challa.mp3" },
+  { title: "Arc - Diljit Dosanjh Songs _ Dhan Guru Nanak _ Pankaj Batra _ Punjabi Songs _ Ishtar Punjabi", file: "music/Diljit Dosanjh Songs _ Dhan Guru Nanak _ Pankaj Batra _ Punjabi Songs _ Ishtar Punjabi.mp3" },
+  { title: "Arc - Salok Mahalla 9 _ Guru Nanak Jahaz _ Bir Singh _ Tarsem Jassar _ Gurpreet Ghuggi", file: "music/Salok Mahalla 9 _ Guru Nanak Jahaz _ Bir Singh _ Tarsem Jassar _ Gurpreet Ghuggi.mp3" },
+  
 ];
 
 // RAP
