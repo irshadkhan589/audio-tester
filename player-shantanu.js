@@ -69,7 +69,7 @@ function renderList() {
   list.innerHTML = "";
 
   renderCategory(
-    `Shantanu 🏏 (${shantanuSongs.length})`,
+    `Shn 🏏 (${shantanuSongs.length})`,
     shantanuSongs,
     energyPhonk.length +
     irfSongs.length +
