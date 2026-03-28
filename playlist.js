@@ -31,12 +31,22 @@ const energyPhonk = [
 
 // IRF
 const irfSongs = [
+  
+  { title: "Jsc - Afusic - Heer Prod. @AliSoomroMusic", file: "music/Afusic - Heer Prod. @AliSoomroMusic.mp3" },
   { title: "Irf - Jhol | Coke Studio Pakistan", file: "music/JholMannu.mp3" },
   { title: "Irf - Aaryan shah - Isolation", file: "music/IsolationAaryan.mp3" },
   { title: "Irf - G-Eazy & Halsey - Him & I", file: "music/Him&I.mp3" },
   { title: "Irf - NOW OR NEVER - CXSPER", file: "music/NowOrNever.mp3" },
   { title: "Irf - Tick Tick Boom - Sage", file: "music/TickTickBoom.mp3" },
   { title: "Irf - Too Easy - Connor Price", file: "music/TooEasy.mp3" },
+  { title: "Irf - Fakira _ Sanam", file: "music/Fakira _ Sanam.mp3" },
+  { title: "Irf - God I Don’t Know What To Do (DcrypTos) 🕊️ #Worship #Jesus #LyricVideo #Music.mp3", file: "music/God I Dont Know What To Do (DcrypTos).mp3" },
+  { title: "Irf - Ionut Cercel - Made in Romania.mp3", file: "music/Ionut Cercel - Made in Romania.mp3" },
+  { title: "Irf - KAARI - Adarsh Rao", file: "music/KAARI - Adarsh Rao _ Official Music Video.mp3" },
+  { title: "Irf - Maher Zain - Rahmatun Lil’Alameen", file: "music/Maher Zain - Rahmatun LilAlameen (Official Music Video) ماهر زين - رحمةٌ للعالمين.mp3" },
+  { title: "Irf - Maher Zain & Harris J - Qalbi Fil Madinah.mp3", file: "music/Maher Zain & Harris J - Qalbi Fil Madinah _ Official Music Video _ قلبي في المدينة.mp3" },
+  { title: "Irf - Salman Elahi - Mukhatib", file: "music/Salman Elahi - Mukhatib (Official Music Video).mp3" },
+  
   { title: "Shn - Don't Stay - Linkin Park", file: "music/DontStayLinkin.mp3" },
   { title: "Shn - In The End - Linkin Park", file: "music/InTheEndLinkin.mp3" },
   { title: "Shn - New Divide - Linkin Park", file: "music/NewDivideLinkin.mp3" },
