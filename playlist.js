@@ -31,22 +31,22 @@ const energyPhonk = [
 
 // IRF
 const irfSongs = [
-  { title: "Irfan - Jhol | Coke Studio Pakistan", file: "music/JholMannu.mp3" },
-  { title: "Irfan - Aaryan shah - Isolation", file: "music/IsolationAaryan.mp3" },
-  { title: "Irfan - G-Eazy & Halsey - Him & I", file: "music/Him&I.mp3" },
-  { title: "Irfan - NOW OR NEVER - CXSPER", file: "music/NowOrNever.mp3" },
-  { title: "Irfan - Tick Tick Boom - Sage", file: "music/TickTickBoom.mp3" },
-  { title: "Irfan - Too Easy - Connor Price", file: "music/TooEasy.mp3" },
-  { title: "Shantanu - Don't Stay - Linkin Park", file: "music/DontStayLinkin.mp3" },
-  { title: "Shantanu - In The End - Linkin Park", file: "music/InTheEndLinkin.mp3" },
-  { title: "Shantanu - New Divide - Linkin Park", file: "music/NewDivideLinkin.mp3" },
-  { title: "Shantanu - Numb _ Encore - Linkin Park _ JAY-Z", file: "music/NumbEncoreLinkin.mp3" },
-  { title: "Shantanu - What I've Done - Linkin Park", file: "music/WhatILinkin.mp3" },
-  { title: "Shantanu - Dopamine - Youth (Official Audio)", file: "music/DopamineYouth.mp3" },
-  { title: "Shantanu - John Wick Reckoning", file: "music/JohnWickReckoning.mp3" },
-  { title: "Shantanu - MGK - Invincible (Explicit) ft. Ester Dean", file: "music/MGKInvincible.mp3" },
-  { title: "Shantanu - Panjabi MC - Jogi (Official Video)", file: "music/PanjabiMC.mp3" },
-  { title: "Shantanu - Shoot Da Order Sukha Kahlon", file: "music/ShootDaSukha.mp3" },
+  { title: "Irf - Jhol | Coke Studio Pakistan", file: "music/JholMannu.mp3" },
+  { title: "Irf - Aaryan shah - Isolation", file: "music/IsolationAaryan.mp3" },
+  { title: "Irf - G-Eazy & Halsey - Him & I", file: "music/Him&I.mp3" },
+  { title: "Irf - NOW OR NEVER - CXSPER", file: "music/NowOrNever.mp3" },
+  { title: "Irf - Tick Tick Boom - Sage", file: "music/TickTickBoom.mp3" },
+  { title: "Irf - Too Easy - Connor Price", file: "music/TooEasy.mp3" },
+  { title: "Shn - Don't Stay - Linkin Park", file: "music/DontStayLinkin.mp3" },
+  { title: "Shn - In The End - Linkin Park", file: "music/InTheEndLinkin.mp3" },
+  { title: "Shn - New Divide - Linkin Park", file: "music/NewDivideLinkin.mp3" },
+  { title: "Shn - Numb _ Encore - Linkin Park _ JAY-Z", file: "music/NumbEncoreLinkin.mp3" },
+  { title: "Shn - What I've Done - Linkin Park", file: "music/WhatILinkin.mp3" },
+  { title: "Shn - Dopamine - Youth (Official Audio)", file: "music/DopamineYouth.mp3" },
+  { title: "Shn - John Wick Reckoning", file: "music/JohnWickReckoning.mp3" },
+  { title: "Shn - MGK - Invincible (Explicit) ft. Ester Dean", file: "music/MGKInvincible.mp3" },
+  { title: "Shn - Panjabi MC - Jogi (Official Video)", file: "music/PanjabiMC.mp3" },
+  { title: "Shn - Shoot Da Order Sukha Kahlon", file: "music/ShootDaSukha.mp3" },
 ];
 
 // RAP

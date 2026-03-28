@@ -92,14 +92,14 @@ renderCategory(
   energyPhonk.length + irfSongs.length + rapSongs.length
 );
 
-renderCategory(
-  `Ramzan 🌙 (${ramzanSongs.length})`,
-  ramzanSongs,
-  energyPhonk.length +
-    irfSongs.length +
-    rapSongs.length +
-    calmSongs.length
-);
+// renderCategory(
+//   `Ramzan 🌙 (${ramzanSongs.length})`,
+//   ramzanSongs,
+//   energyPhonk.length +
+//     irfSongs.length +
+//     rapSongs.length +
+//     calmSongs.length
+// );
 
 renderCategory(
   `Sad 🫶 (${sadSongs.length})`,
