@@ -201,6 +201,10 @@ const sadSongs = [{title:"Tera Mera Rishta", file:"music/TeraMeraRishta.mp3"},
   {title:"mausam x kabira x teri meri mashup - Ab6 music.mp3", file:"music/mausam x kabira x teri meri song editing mashup slowed hindi - Ab6 music.mp3"},
   {title:"TERI YAADON MEIN - KK.mp3", file:"music/TERI YAADON MEIN - KK.mp3"},
   {title:"Yeh Jism - Ali Azmat", file:"music/Yeh Jism - Ali Azmat.mp3"},
+  {title:"Iktara - Wake Up Sid_Ranbir Kapoor,Konkona Sen Sharma_Kavita Seth_Amit Trivedi", file:"music/Iktara Full Video - Wake Up Sid_Ranbir Kapoor,Konkona Sen Sharma_Kavita Seth_Amit Trivedi.mp3"},
+  {title:"Jiyein Kyun", file:"music/Jiyein Kyun.mp3"},
+  {title:"Rockstar_ NADAAN PARINDE _ Ranbir Kapoor _ A.R Rahman _ Mohit Chauhan", file:"music/Rockstar_ NADAAN PARINDE (Lyrical Video) _ Ranbir Kapoor _ A.R Rahman _ Mohit Chauhan.mp3"},
+  {title:"SAIYAARA _ Kishore Kumar", file:"music/SAIYAARA _ Kishore Kumar __ Haye Main Mar Hi jau __ Old Goldern Era Viral Song.mp3"},
 ]
 
 const healSongs = [
