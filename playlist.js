@@ -34,7 +34,15 @@ const irfSongs = [
   
   { title: "Jsc - Afusic - Heer Prod. @AliSoomroMusic", file: "music/Afusic - Heer Prod. @AliSoomroMusic.mp3" },
   { title: "Jsc - Kafka", file: "music/Kafka (Official Video) _ Amrinder Gill _ Gurlez Akhtar _ Dr Zeus _ Raj Ranjodh _ Judaa 3 _ Chapter 2.mp3" },
-  { title: "Jsc - Sabrina Carpenter - Please Please Please", file: "music/Sabrina Carpenter - Please Please Please (Official Video).mp3" },
+  { title: "Jsc - Sabrina Carpenter - Please Please Please", file: "music/Sabrina Carpenter - Please Please Please (Official Video).mp3" },{ title: "Jsc - Kafka", file: "music/Kafka (Official Video) _ Amrinder Gill _ Gurlez Akhtar _ Dr Zeus _ Raj Ranjodh _ Judaa 3 _ Chapter 2.mp3" },
+  { title: "Jsc - Aditya Rikhari - FAASLE", file: "music/Aditya Rikhari - FAASLE.mp3" },
+  { title: "Jsc - Aditya Rikhari - Raatein Guzaari.mp3", file: "music/Aditya Rikhari - Raatein Guzaari.mp3" },
+  { title: "Jsc - Aditya Rikhari – TERI YAAD", file: "music/Aditya Rikhari – TERI YAAD (Video).mp3" },
+  { title: "Jsc - MI AMOR - SHARN _ MEET _ PRG LATEST PUNJABI SONGS 2025", file: "music/MI AMOR - SHARN _ MEET _ PRG (OFFICIAL VIDEO) LATEST PUNJABI SONGS 2025.mp3" },
+  { title: "Jsc - Sahiba (Full Audio) _ Aditya Rikhari, Ankita Chhetri _ T-Series", file: "music/Sahiba (Full Audio) _ Aditya Rikhari, Ankita Chhetri _ T-Series.mp3" },
+  
+
+
   { title: "Irf - Jhol | Coke Studio Pakistan", file: "music/JholMannu.mp3" },
   { title: "Irf - Aaryan shah - Isolation", file: "music/IsolationAaryan.mp3" },
   { title: "Irf - G-Eazy & Halsey - Him & I", file: "music/Him&I.mp3" },
@@ -122,6 +130,24 @@ const calmSongs = [
   {title:"TOMATO TOMATO SONG", file:"music/TOMATO TOMATO SONG.mp3"},
   {title:"Twist", file:"music/Twist.mp3"},
   {title:"We Rollin", file:"music/We Rollin.mp3"},
+  {title:"Afsos - AP Dhillon x Anuv Jain", file:"music/Afsos.mp3"},
+  {title:"Allo (Choir Version)", file:"music/Allo (Choir Version).mp3"},
+  {title:"Angreji Beat _ Yo Yo Honey Singh _ Gippy Grewal _ Rimpy Prince _ Veet Baljit", file:"music/Angreji Beat (Lyrical Video)_ Yo Yo Honey Singh _ Gippy Grewal _ Rimpy Prince _ Veet Baljit.mp3"},
+  {title:"Bairiyaa", file:"music/Bairiyaa.mp3"},
+  {title:"Churake - Vilen X Kanika Kapoor", file:"music/Churake - Vilen X Kanika Kapoor (Official Audio).mp3"},
+  {title:"Gulabi Ankhe Jo Teri Dekhi Unplugged by ATIF ASLAM", file:"music/Gulabi Ankhe Jo Teri Dekhi Unplugged by ATIF ASLAM.mp3"},
+  {title:"Haseen - TALWIINDER", file:"music/Haseen.mp3"},
+  {title:"Hum Kis Galli Jaa Rahe Hai", file:"music/Hum Kis Galli Jaa Rahe Hai.mp3"},
+  {title:"Jeet Gannguli, Mustafa Zahid - Jo Tere Sang", file:"music/Jeet Gannguli, Mustafa Zahid - Jo Tere Sang.mp3"},
+  {title:"Jo bhi main _ Rockstar _ Ranbir Kapoor _ A R Rahman", file:"music/Jo bhi main Lyrical Video _ Rockstar _ Ranbir Kapoor _ A R Rahman.mp3"},
+  {title:"Kabhi toh pass mere aao (from _Atif Aslam_)", file:"music/Kabhi toh pass mere aao (from _Atif Aslam_).mp3"},
+  {title:"Labon Ko", file:"music/Labon Ko.mp3"},
+  {title:"Meri Kahani - Atif Aslam _ Mahmood Rahman, Sameer Shami & Farhad", file:"music/Meri Kahani - Official Video _ Meri Kahani _ Atif Aslam _ Mahmood Rahman, Sameer Shami & Farhad.mp3"},
+  {title:"Papaoutai (Afro Soul) - Stromae", file:"music/Papaoutai (Afro Soul) - Stromae.mp3"},
+  {title:"Piya O Re Piya Lyrical - Tere Naal Love Ho Gaya _ Riteish Deshmukh, Genelia _ Atif Aslam, Shreya", file:"music/Piya O Re Piya Lyrical - Tere Naal Love Ho Gaya _ Riteish Deshmukh, Genelia _ Atif Aslam, Shreya.mp3"},
+  {title:"Rang Jo Lagyo (Special Edition) - Ramaiya Vastavaiya _ Girish Kumar, Shruti Haasan _ Atif & Shreya", file:"music/Rang Jo Lagyo (Special Edition) - Ramaiya Vastavaiya _ Girish Kumar, Shruti Haasan _ Atif & Shreya.mp3"},
+  {title:"Te Amo (Duet)", file:"music/Te Amo (Duet).mp3"},
+  {title:"Tu Mohabbat Hai - Tere Naal Love Ho Gaya _ Atif Aslam, Monali, Priya _ Riteish, Genelia", file:"music/Tu Mohabbat Hai Lyrical - Tere Naal Love Ho Gaya _ Atif Aslam, Monali, Priya _ Riteish, Genelia.mp3"},
 ]
 
 //Ramzan Songs
