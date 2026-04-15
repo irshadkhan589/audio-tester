@@ -27,6 +27,7 @@ const energyPhonk = [
   { title: "fragment (slowed) - slxughter", file: "music/fragmentSlowed.mp3" },
   { title: "POOR - gqtis", file: "music/PoorGqtis.mp3" },
   { title: "SHOORVEER 3 - Rapperiya Baalam", file: "music/ShoorveerIII.mp3" },
+  { title: "All Of The Lights - Kanye West", file: "music/All Of The Lights.mp3" },
 ];
 
 // IRF
@@ -34,12 +35,13 @@ const irfSongs = [
   
   { title: "Jsc - Afusic - Heer Prod. @AliSoomroMusic", file: "music/Afusic - Heer Prod. @AliSoomroMusic.mp3" },
   { title: "Jsc - Kafka", file: "music/Kafka (Official Video) _ Amrinder Gill _ Gurlez Akhtar _ Dr Zeus _ Raj Ranjodh _ Judaa 3 _ Chapter 2.mp3" },
-  { title: "Jsc - Sabrina Carpenter - Please Please Please", file: "music/Sabrina Carpenter - Please Please Please (Official Video).mp3" },{ title: "Jsc - Kafka", file: "music/Kafka (Official Video) _ Amrinder Gill _ Gurlez Akhtar _ Dr Zeus _ Raj Ranjodh _ Judaa 3 _ Chapter 2.mp3" },
+  { title: "Jsc - Sabrina Carpenter - Please Please Please", file: "music/Sabrina Carpenter - Please Please Please (Official Video).mp3" },
   { title: "Jsc - Aditya Rikhari - FAASLE", file: "music/Aditya Rikhari - FAASLE.mp3" },
   { title: "Jsc - Aditya Rikhari - Raatein Guzaari.mp3", file: "music/Aditya Rikhari - Raatein Guzaari.mp3" },
   { title: "Jsc - Aditya Rikhari – TERI YAAD", file: "music/Aditya Rikhari – TERI YAAD (Video).mp3" },
   { title: "Jsc - MI AMOR - SHARN _ MEET _ PRG LATEST PUNJABI SONGS 2025", file: "music/MI AMOR - SHARN _ MEET _ PRG (OFFICIAL VIDEO) LATEST PUNJABI SONGS 2025.mp3" },
   { title: "Jsc - Sahiba (Full Audio) _ Aditya Rikhari, Ankita Chhetri _ T-Series", file: "music/Sahiba (Full Audio) _ Aditya Rikhari, Ankita Chhetri _ T-Series.mp3" },
+  { title: "Jsc - Dooron Dooron", file: "music/Dooron Dooron (Official Video) - Paresh Pahuja Feat. Harleen Sethi _ Shiv _ Meghdeep _ Vaibhav.mp3" },
   
 
 
@@ -148,6 +150,7 @@ const calmSongs = [
   {title:"Rang Jo Lagyo (Special Edition) - Ramaiya Vastavaiya _ Girish Kumar, Shruti Haasan _ Atif & Shreya", file:"music/Rang Jo Lagyo (Special Edition) - Ramaiya Vastavaiya _ Girish Kumar, Shruti Haasan _ Atif & Shreya.mp3"},
   {title:"Te Amo (Duet)", file:"music/Te Amo (Duet).mp3"},
   {title:"Tu Mohabbat Hai - Tere Naal Love Ho Gaya _ Atif Aslam, Monali, Priya _ Riteish, Genelia", file:"music/Tu Mohabbat Hai Lyrical - Tere Naal Love Ho Gaya _ Atif Aslam, Monali, Priya _ Riteish, Genelia.mp3"},
+  { title: "Numb _ Encore - Linkin Park _ JAY-Z", file: "music/NumbEncoreLinkin.mp3" },
 ]
 
 //Ramzan Songs
@@ -205,6 +208,7 @@ const sadSongs = [{title:"Tera Mera Rishta", file:"music/TeraMeraRishta.mp3"},
   {title:"Jiyein Kyun", file:"music/Jiyein Kyun.mp3"},
   {title:"Rockstar_ NADAAN PARINDE _ Ranbir Kapoor _ A.R Rahman _ Mohit Chauhan", file:"music/Rockstar_ NADAAN PARINDE (Lyrical Video) _ Ranbir Kapoor _ A.R Rahman _ Mohit Chauhan.mp3"},
   {title:"SAIYAARA _ Kishore Kumar", file:"music/SAIYAARA _ Kishore Kumar __ Haye Main Mar Hi jau __ Old Goldern Era Viral Song.mp3"},
+  {title:"ab kisko kahun apna humdum _ Anushka gautam _ karaoke cover", file:"music/_ ab kisko kahun apna humdum _ Anushka gautam _ karaoke cover _.mp3"},
 ]
 
 const healSongs = [
