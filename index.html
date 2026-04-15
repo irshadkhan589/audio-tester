@@ -21,6 +21,23 @@
 
   </div>
   <div id="list"></div>
+  <div id="popup" class="hidden">
+  <div id="popup-content">
+    <div id="popup-title">Song Name</div>
+
+    <div id="popup-time">
+      <span id="current-time">00:00</span>
+      <input type="range" id="progress" value="0" min="0" max="100">
+      <span id="total-time">00:00</span>
+    </div>
+
+    <div id="popup-controls">
+      <button id="popup-prev">◀</button>
+      <button id="popup-play">⏯</button>
+      <button id="popup-next">▶</button>
+    </div>
+  </div>
+</div>
 
   <script src="playlist.js"></script>
   <script src="player.js"></script>

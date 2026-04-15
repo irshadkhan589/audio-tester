@@ -126,3 +126,61 @@ body {
   opacity: 0.6;
   margin-bottom: 10px;
 }
+
+/* =========================
+   🎧 FOOTER PLAYER
+========================= */
+
+/* Popup Player */
+#popup {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #111;
+  border: 1px solid #333;
+  border-radius: 10px;
+  padding: 12px 16px;
+  width: 400px;
+  z-index: 999;
+}
+
+.hidden {
+  display: none;
+}
+
+#popup-title {
+  font-size: 14px;
+  margin-bottom: 8px;
+  text-align: center;
+  color: #ddd;
+}
+
+#popup-time {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+#progress {
+  flex: 1;
+  cursor: pointer;
+}
+
+#popup-controls {
+  margin-top: 10px;
+  text-align: center;
+}
+
+#popup-controls button {
+  background: #1b1b1b;
+  border: none;
+  color: #ddd;
+  padding: 6px 12px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+#popup-controls button:hover {
+  background: #2a2a2a;
+}
